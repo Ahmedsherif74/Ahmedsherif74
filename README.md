@@ -13,7 +13,12 @@
 
 - 🏢 I'm a Senior Computer Engineering and science student at the German University in Cairo
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my linkedin Profile at https://www.linkedin.com/in/ahmed-sherif-844957211/
+
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-sherif-844957211) 
+ [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:ahmedsherifsaid2000@gmail.com)
 
 
 
