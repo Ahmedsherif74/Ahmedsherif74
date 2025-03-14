@@ -11,7 +11,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p> 
 
 - 🏢 Senior CSEN Student @GUC
-- 👨‍💻 As a CSE student, I'm constantly learning and exploring new technologies
+- 👨‍💻 As a CSEN student, I'm constantly learning and exploring new technologies
 
 
 ## 🌐 Socials:
