@@ -20,4 +20,11 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
  [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:ahmedsherifsaid2000@gmail.com)
 
 
+## ⚡ Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ahmedsherif74&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsherif74&hide=jupyter%20notebook&layout=compact)
+
+
 
