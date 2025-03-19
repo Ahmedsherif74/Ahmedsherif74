@@ -12,6 +12,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - 🎓 Senior CSEN Student @[The German University in Cairo](https://www.guc.edu.eg/).
 - 👨‍💻 As a CSEN student, I'm constantly learning and exploring new technologies
+-  Full-Stack Developer | ReactJs | NextJs | NodeJs 
 
 
 ## 🌐 Socials:
