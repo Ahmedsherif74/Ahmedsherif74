@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 Senior CSEN Student @[The German University in Cairo](https://www.guc.edu.eg/).
-- 🚀 As a CSEN Student, I'm constantly learning and exploring new technologies.
+- 🚀 As a CSEN Student , I'm constantly learning and exploring new technologies.
 - 🧑‍💻 Full-Stack Developer. | ReactJs. | NextJs. | NodeJs.
 
 
