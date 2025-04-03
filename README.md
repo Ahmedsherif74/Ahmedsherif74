@@ -17,6 +17,5 @@
 ## ⚡ Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsherif74&hide=jupyter%20notebook&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmedsherif74&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
