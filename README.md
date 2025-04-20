@@ -15,6 +15,7 @@
 
 
 ## ⚡ Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedsherif74&theme=default&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsherif74&hide=jupyter%20notebook&layout=compact)
 
